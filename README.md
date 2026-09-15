@@ -38,3 +38,23 @@ Requires a microphone, speakers and internet access.
 Speech recognition sends recorded audio to Google's service.
 
 Code and dependencies are in the task2_voice_assistant folder.
+
+
+## Task 4: Basic Chatbot
+
+A rule-based Python chatbot that responds with predefined replies.
+
+### Features
+- Responds to greetings and simple questions
+- Handles unknown or empty messages
+- Ignores capital letters and ending punctuation
+- Stops when you type bye, exit or quit
+
+### How to Run
+From the main project folder:
+
+```cmd
+python task4_chatbot\chatbot.py
+```
+
+Uses Python's built-in features; no additional libraries are required.
