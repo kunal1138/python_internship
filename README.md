@@ -23,6 +23,8 @@ Second number: 5
 Operation: +
 Result: 15.0
 
+# Demo video: https://drive.google.com/file/d/18XUK6EP9mXoQyvphxqMd1XqlTeFjiIyP/view
+
 
 ## Task 2: Voice Assistant
 
@@ -38,6 +40,8 @@ Requires a microphone, speakers and internet access.
 Speech recognition sends recorded audio to Google's service.
 
 Code and dependencies are in the task2_voice_assistant folder.
+
+# Demo video: https://drive.google.com/file/d/109kCSB03-3BVcEJEGuC6djBFWhFrledZ/view
 
 
 ## Task 4: Basic Chatbot
@@ -58,3 +62,5 @@ python task4_chatbot\chatbot.py
 ```
 
 Uses Python's built-in features; no additional libraries are required.
+
+# Demo video: https://drive.google.com/file/d/1p55q6HNIU88qnaA8twMiPEViJQb-B0c-/view
