@@ -1,5 +1,6 @@
 # Python Internship – SAM AI Technologies
 
+## Task 1: Calculator
 A simple calculator built with Python for the SAM AI Technologies internship.
 
 ## Features
